@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "version": "0.0.1",
+  "name": "search by Sci-Hub ",
+  "description": "search by sci-hub. It can be used by right click to seach in sci-hub",
+  "author": "Tao Yuyu",
+  "homepage-url": "https://github.com/ExceptionsOccur/sci-hub-search",
+
+  "permissions": [
+    "menus",
+    "search"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+}
