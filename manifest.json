@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "version": "0.0.1",
   "name": "search by Sci-Hub ",
   "description": "search by sci-hub. It can be used by right click to seach in sci-hub",
@@ -13,5 +13,5 @@
 
   "background": {
     "scripts": ["background.js"]
-  },
+  }
 }
