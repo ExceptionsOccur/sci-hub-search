@@ -1,5 +1,5 @@
 
-var doi = '';
+
 function createMenuItem() {
     browser.menus.create({
       id: 'search',
