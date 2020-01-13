@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "version": "0.0.1",
   "name": "search by Sci-Hub ",
-  "description": "search by sci-hub. It can be used to seach in sci-hub by right click",
+  "description": "将sci-hub搜索集成于右键菜单，本来就不多的科研时间，能省1s是1s",
   "author": "Tao Yuyu",
   "homepage-url": "https://github.com/ExceptionsOccur/sci-hub-search",
 
