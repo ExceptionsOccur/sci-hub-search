@@ -46,7 +46,7 @@ browser.menus.onClicked.addListener((info, tab) => {
 							browser.notifications.create({
 	    						"type": "basic",
 	    						"title": "search by sci-hub",
-	    						"message": selected + '\n' + "its DOI is not found"
+	    						"message": selected + '\n' + "对此内容没有找到对应DOI"
 	    					});
 						}
 						else
