@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "search in Sci-Hub ",
   "description": "将sci-hub搜索集成于右键菜单，本来就不多的科研时间，能省1s是1s\nps: 这并不能让你连接sci-hub更快！这不是加速器！\npps：感觉搜作者这功能用处不大，同名的太多了",
   "author": "Tao Yuyu",
